@@ -65,13 +65,7 @@
 
 
 <h2>✍️  Cyber Quote<h2/>
-<div style="background-color: #000000; color: #00ff00; padding: 20px; border-radius: 10px; max-width: 700px; position: relative; font-family: Arial, sans-serif; box-shadow: 0 4px 8px rgba(0, 255, 0, 0.2); margin-bottom: 0;">
-  <p style="font-size: 0.8em; line-height: 1.5; margin: 0 0 20px 0; position: relative; padding: 0 30px;">
-    ' To apprehend a thief, one must master the cunning mindset of the thief '
-  </p>
-  <p style="position: absolute; bottom: 5px; right: 20px; font-size: 0.5em; font-style: italic; opacity: 0.8;">— doxuanhau-kali_linux</p>
-</div>
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" >
 
 <hr style="height: 2px ">
 
