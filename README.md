@@ -84,5 +84,11 @@
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi" />
   </a>
 </div>
+<-- -->
 
-
+<pre style="background:black; color:lime; padding:10px; border-radius:6px;">
+This is a green text block on black background
+</pre>
+<blockquote style="background-color:black; color:lime; padding:10px; border-radius:6px;">
+  This is a green text block on black background
+</blockquote>
