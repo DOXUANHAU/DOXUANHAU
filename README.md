@@ -11,26 +11,26 @@
 <p align="left">
 <div align="left">
   <!-- instagram -->
-  <a  href="https://www.instagram.com/xuanhau_"> 
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" height="25" alt=" logo"  />
-   <a/>
+  <a href="https://www.instagram.com/xuanhau_"> 
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" height="25" alt="Instagram logo" />
+  </a>
   
   <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/doxuanhau">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&amp;logoColor=white" height="25" alt="LinkedIn logo" height="25" alt=" logo"  />
-   <a/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&amp;logoColor=white" height="25" alt="LinkedIn logo" />
+  </a>
   <!-- facebook -->
- <a href="https://www.facebook.com/xuan.hau.997065">
- <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25" alt="linkedin logo"  />
-  <a/>
+  <a href="https://www.facebook.com/xuan.hau.997065">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25" alt="Facebook logo" />
+  </a>
  <!-- youtube -->
- <a href="https://www.youtube.com/@xuanhau_7">
- <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="25" alt=" logo"  />
-  <a/>
+  <a href="https://www.youtube.com/@xuanhau_7">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="25" alt="YouTube logo" />
+  </a>
   <!-- tiktok -->
-  <a href="">
-   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" height="25" alt=" logo"  />
-  <a/>
+  <a href="https://www.tiktok.com/@xuanhau_7">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" height="25" alt="TikTok logo" />
+  </a>
 
 </div>
 <hr style="height:2px;"/>
@@ -42,10 +42,10 @@
 <h2 >📊 GitHub Stats:</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=DOXUANHAU&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  alt="stats graph" alt="doxuanhau" /><p/>
+<img src="https://github-readme-stats.vercel.app/api?username=DOXUANHAU&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  alt="stats graph" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DOXUANHAU&theme=dracula&disable_animations=false" alt="doxuanhau" /></p>
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DOXUANHAU&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"  alt="languages graph"  />
 
@@ -66,7 +66,7 @@
 <hr style="height:2px"/>
 
 
-<h2>✍️  Cyber Quote<h2/>
+<h2>✍️  Cyber Quote</h2>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" >
 
 <hr style="height: 2px ">
