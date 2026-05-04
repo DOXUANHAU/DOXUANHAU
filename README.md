@@ -9,7 +9,6 @@
   📫 Contact: <b>doxuanhau08022003@gmail.com</b>
 </p>
 
----
 
 ## 🌐 Socials
 <p align="center">
@@ -30,7 +29,6 @@
   </a>
 </p>
 
----
 
 ## 💻 Tech Stack
 <p align="center">
@@ -50,7 +48,6 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -61,21 +58,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DOXUANHAU&layout=compact&theme=dracula" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DOXUANHAU&theme=dracula&no-frame=false&margin-w=8&margin-h=8" />
 </p>
 
----
-
 ## ✍️ Cyber Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
 
 ## ☕ Support Me
 <p align="center">
