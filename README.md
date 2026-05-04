@@ -79,10 +79,10 @@
 
 ## ☕ Support Me
 <p align="center">
-  <a href="https://www.buymeacoffee.com/doxuanhau">
+  <a href="https://www.buymeacoffee.com/doxuanhau02">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
   </a>
-  <a href="https://ko-fi.com/doxuanhau">
+  <a href="http://ko-fi.com/doxuanhau">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"/>
   </a>
 </p>
